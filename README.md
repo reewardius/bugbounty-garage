@@ -6,6 +6,7 @@
 | Nuclei FAST Templates                                      | https://github.com/reewardius/nuclei-fast-templates       |
 | Nuclei DAST Templates                                      | https://github.com/reewardius/nuclei-dast-templates       |
 | Nuclei AI Templates                                        | https://github.com/reewardius/nuclei-ai-templates      |
+| Nuclei AI Prompts                                        | https://github.com/reewardius/Nuclei-AI-Prompts      |
 | Nuclei Path Scanner                                        | https://github.com/reewardius/nuclei-path-scanner       |
 | Nuclei Config Exposure                                    | https://github.com/reewardius/nuclei-config-scanner     |
 | Hidden Parameters Fuzzing         | https://github.com/reewardius/hidden-param-extractor      |
