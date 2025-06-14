@@ -14,7 +14,8 @@
 | General Domains Takeover                           | https://github.com/reewardius/general-takeover        |
 | Ffuf                                                       | https://github.com/reewardius/bbFuzzing.txt       |
 | Swagger Checker                                            | https://github.com/reewardius/swagger-checker      |
-| Cspgrabber                                                 | https://github.com/reewardius/cspgrabber
+| Cspgrabber                                                 | https://github.com/reewardius/cspgrabber         |
+| JS-Finder                                                  | https://github.com/reewardius/js-finder         |
 | Cookiemonster                                              | https://github.com/reewardius/cookiemonster     |
 | Wayback Sensitive                                          | https://github.com/reewardius/Outpost/blob/main/sensitive.py       |
 | Cloud Urls Checker                                         | https://github.com/reewardius/aws-enumeration/tree/main/templates       |
