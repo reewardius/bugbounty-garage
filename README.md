@@ -20,3 +20,4 @@
 | Wayback Sensitive                                          | https://github.com/reewardius/Outpost/blob/main/sensitive.py       |
 | Cloud Urls Checker                                         | https://github.com/reewardius/aws-enumeration/tree/main/templates       |
 | **Outpost**                                                | https://github.com/reewardius/Outpost       |
+| **AutoEASM**                                               | https://github.com/Van-1337/AutoEASM        |
