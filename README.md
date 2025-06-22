@@ -19,5 +19,9 @@
 | Cookiemonster                                              | https://github.com/reewardius/cookiemonster     |
 | Wayback Sensitive                                          | https://github.com/reewardius/Outpost/blob/main/sensitive.py       |
 | Cloud Urls Checker                                         | https://github.com/reewardius/aws-enumeration/tree/main/templates       |
+| Kxss                                                       | https://github.com/reewardius/kxss          |
+| 403to404checker                                            | https://github.com/reewardius/403to404checker |
+| DNS-history-checker                                        | https://github.com/reewardius/dns-history-checker |
+| hosts-tracker                                              | https://github.com/reewardius/hosts-tracker |
 | **Outpost**                                                | https://github.com/reewardius/Outpost       |
 | **AutoEASM**                                               | https://github.com/Van-1337/AutoEASM        |
