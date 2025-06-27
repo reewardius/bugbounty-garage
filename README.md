@@ -10,6 +10,7 @@
 | Nuclei Path Scanner                                        | https://github.com/reewardius/nuclei-path-scanner       |
 | Nuclei Config Exposure                                    | https://github.com/reewardius/nuclei-config-scanner     |
 | Hidden Parameters Fuzzing         | https://github.com/reewardius/hidden-param-extractor      |
+| Nuclei Dependency Confusion                                | https://github.com/reewardius/nuclei-dependency-confusion |
 | Secrets Scanner                                            | https://github.com/reewardius/secrets-scanner       |
 | General Domains Takeover                           | https://github.com/reewardius/general-takeover        |
 | Ffuf                                                       | https://github.com/reewardius/bbFuzzing.txt       |
