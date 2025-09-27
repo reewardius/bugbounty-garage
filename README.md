@@ -13,7 +13,7 @@
 | Nuclei Dependency Confusion                                | https://github.com/reewardius/nuclei-dependency-confusion |
 | Secrets Scanner                                            | https://github.com/reewardius/secrets-scanner       |
 | General Domains Takeover                           | https://github.com/reewardius/general-takeover        |
-| Ffuf                                                       | https://github.com/reewardius/bbFuzzing.txt       |
+| Ffuf Wordlist                                                       | https://github.com/reewardius/bbFuzzing.txt       |
 | Swagger Checker                                            | https://github.com/reewardius/swagger-checker      |
 | Cspgrabber                                                 | https://github.com/reewardius/cspgrabber         |
 | JS-Finder                                                  | https://github.com/reewardius/js-finder         |
