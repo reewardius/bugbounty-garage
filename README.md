@@ -24,6 +24,7 @@
 | 403to404checker                                            | https://github.com/reewardius/403to404checker |
 | DNS-history-checker                                        | https://github.com/reewardius/dns-history-checker |
 | hosts-tracker                                              | https://github.com/reewardius/hosts-tracker |
+| thc-recon.py | https://github.com/reewardius/thc_recon.py |
 | rest-api-scanning                                          | https://github.com/reewardius/rest-api-scanning |
 | **Outpost**                                                | https://github.com/reewardius/Outpost       |
 | **AutoEASM**                                               | https://github.com/Van-1337/AutoEASM        |
