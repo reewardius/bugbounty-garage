@@ -14,10 +14,13 @@
 | Secrets Scanner                                            | https://github.com/reewardius/secrets-scanner       |
 | General Domains Takeover                           | https://github.com/reewardius/general-takeover        |
 | Ffuf Wordlist                                                       | https://github.com/reewardius/bbFuzzing.txt       |
-| Swagger Checker                                            | https://github.com/reewardius/swagger-checker      |
+| Swagger Checker                                            | https://github.com/reewardius/swagger-checker/blob/main/swagger_checker_threads.py      |
+| GraphQL Checker                                                 | https://github.com/reewardius/swagger-checker/blob/main/graphql_analyzer.py         |
+| API Hunter                                                 | https://github.com/reewardius/swagger-checker/blob/main/api_hunter.py         |
 | Cspgrabber                                                 | https://github.com/reewardius/cspgrabber         |
 | JS-Finder                                                  | https://github.com/reewardius/js-finder         |
 | Cookiemonster                                              | https://github.com/reewardius/cookiemonster     |
+| BadSecrets                                              | https://github.com/reewardius/badsecrets     |
 | Wayback Sensitive                                          | https://github.com/reewardius/Outpost/blob/main/sensitive.py       |
 | Cloud Urls Checker                                         | https://github.com/reewardius/aws-enumeration/tree/main/templates       |
 | Kxss                                                       | https://github.com/reewardius/kxss          |
